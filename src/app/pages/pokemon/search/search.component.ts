@@ -7,7 +7,7 @@ import { Component, EventEmitter, Output } from "@angular/core";
     imports:[],
     template:`
     <div class="col-12">
-        <h2 class="text-center mb-4">Pokémon</h2>
+        <h2 class="text-center mb-4">Busca El POKEMÓN Que Desees!!</h2>
     <div class="input-group mb-3">
        <input 
          #txtSearch
